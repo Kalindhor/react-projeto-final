@@ -1,5 +1,5 @@
 # 👨🏽‍💻 React Projeto Final 👨🏽‍💻
-Projeto final do curso React Native do instituto Eldorado 
+Projeto final do curso React Native do Instituto Eldorado 
 
 
 ## 🔧 Configurando Projeto
@@ -14,7 +14,6 @@ Projeto final do curso React Native do instituto Eldorado
  Retorno esperado: v16.14.2
 * Atualizar caso tenha instalado:
 ```npm install -g node@16.14.2```
-Instalando Expo 
 * Instalando expo cli: 
 ```npm install -g expo-cli```
 * Instalando expo no seu dispositivo móvel:
